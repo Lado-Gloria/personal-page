@@ -1,0 +1,362 @@
+body{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background-color: rgb(190, 190, 215);
+    height: 101%;
+    white-space: normal;
+} 
+.soft{
+    display: inline-block;
+    display: flex;
+    position: relative; 
+    left: 10%;
+  
+}
+@media (max-width: 480px) {
+    .soft{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .soft{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .soft{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .soft{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .soft{
+                        font-size: 8px;
+                    }
+                    }
+
+#buy{
+    position: relative;
+    left: 10%;
+    width: 10%;
+    height: 50px;
+    color: wheat;
+    background-color: black;
+}
+@media (max-width: 480px) {
+    #buy{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        #buy{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            #buy{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                #buy{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    #buy{
+                        font-size: 8px;
+                    }
+                    }
+
+.deve{
+    /* position: absolute; */
+    color: rgb(214, 219, 223);
+    font-size: larger;
+    background-image: url(image/maincoding1.jpg);
+    backdrop-filter: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+@media (max-width: 480px) {
+    .deve{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .deve{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .deve{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .deve{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .deve{
+                        font-size: 8px;
+                    }
+                    }
+ 
+   
+#live{
+    position: relative;
+    width: 10%;
+    height: 50px;
+    bottom: 10px;
+    background-color: rgb(235, 229, 229);
+    
+}
+#now{
+    position: relative;
+    width: 10%;
+    height: 50px;
+    bottom: 10px;
+    background-color: white;
+
+}
+.core{
+    position: relative;
+    left: 50%;
+    font-size: large;
+}
+@media (max-width: 480px) {
+    .core{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .core{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .core{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .core{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .core{
+                        font-size: 8px;
+                    }
+                    }
+
+#img1{
+    position: relative;
+    right: 50%;
+    bottom: 100px;
+
+   
+}
+@media (max-width: 480px) {
+    #img1{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        #img1{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            #img1{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                #img1{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    #img1{
+                        font-size: 8px;
+                    }
+                    }
+.hand{
+    display: inline-block;
+    display: flex;
+    position: relative;
+    bottom: 300px;
+   
+}  
+@media (max-width: 480px) {
+    .hand{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .hand{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .hand{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .hand{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .hand{
+                        font-size: 8px;
+                    }
+                    }
+
+#use{
+    position: relative;
+    left: 5%;
+    width: 11%;
+    background-color: rgb(191, 191, 197);
+    
+
+}
+@media (max-width: 480px) {
+    #use{
+        font-size: 4px;
+    
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        #use{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            #use{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                #use{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    #use{
+                        font-size: 8px;
+                    }
+                    }
+#use2{
+    position: relative;
+    left: 10%;
+    width: 11%;
+    background-color: rgb(209, 209, 215);
+}
+#use1{
+    position: relative;
+    width: 11%;
+    background-color: rgb(171, 171, 175);
+}
+#lorem{
+   position: relative;
+   bottom: 280px;
+   font-size:small;
+}
+#fa{
+    color: brown;
+    margin-left: 15%;
+    font-size: 14px;
+}
+#img2{
+    height: 400px;
+    position: relative;
+    left: 50%;
+    bottom: 300px;
+    display: inline block;
+}
+
+.app{
+    font-size: x-large;
+    background-color: blanchedalmond;
+    height: 450px;
+    position: relative;
+    bottom: 190px;
+}
+.goal{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+.design{
+    display: flex;
+    position: relative;
+    left: 20%;
+    bottom: 60px;
+
+}
+@media (max-width: 480px) {
+    .design{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .design{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .design{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .design{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .design{
+                        font-size: 8px;
+                    }
+                    }
+.feat{
+    display: flex;
+    
+}
+@media (max-width: 480px) {
+    .feat{
+        font-size: 4px;
+    }
+    }
+    @media (min-width: 481px) and (max-width:768px) {
+        .feat{
+            font-size: 2px;
+        }
+        }
+        @media (min-width: 481px) and (max-width:768px) {
+            .feat{
+                font-size: 4px;
+            }
+            }
+            @media (min-width: 769px) and (max-width:1024px) {
+                .feat{
+                    font-size: 6px;
+                }
+                }
+                @media (min-width: 1025px) and (max-width:1200px) {
+                    .feat{
+                        font-size: 8px;
+                    }
+                    }
+
+    
+
